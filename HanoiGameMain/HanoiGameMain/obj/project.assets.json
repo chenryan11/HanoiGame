@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\chenr\\.nuget\\packages\\": {}
+    "C:\\Users\\cg2lab\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VisualStudio\\Hanoi\\HanoiGameMain\\HanoiGameMain\\HanoiGameMain.csproj",
+      "projectUniqueName": "C:\\Users\\cg2lab\\Desktop\\新增資料夾\\HanoiGame\\HanoiGameMain\\HanoiGameMain\\HanoiGameMain.csproj",
       "projectName": "HanoiGameMain",
-      "projectPath": "D:\\VisualStudio\\Hanoi\\HanoiGameMain\\HanoiGameMain\\HanoiGameMain.csproj",
-      "packagesPath": "C:\\Users\\chenr\\.nuget\\packages\\",
-      "outputPath": "D:\\VisualStudio\\Hanoi\\HanoiGameMain\\HanoiGameMain\\obj\\",
+      "projectPath": "C:\\Users\\cg2lab\\Desktop\\新增資料夾\\HanoiGame\\HanoiGameMain\\HanoiGameMain\\HanoiGameMain.csproj",
+      "packagesPath": "C:\\Users\\cg2lab\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cg2lab\\Desktop\\新增資料夾\\HanoiGame\\HanoiGameMain\\HanoiGameMain\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\chenr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cg2lab\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

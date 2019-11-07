@@ -11,23 +11,85 @@ namespace HanoiGameMain
         int to;
         int aux = 0;
 
-        string input;
+        int isInt = 0;
+
+        bool m_bWhile = true;
 
         public void Setup()
         {
             //輸入高度
-            Console.WriteLine("請輸入河內塔的高度：");
-            input = Console.ReadLine();
-            disk = int.Parse(input);
+            while (m_bWhile == true)
+            {
+                Console.WriteLine("請輸入河內塔的高度：");
+                string input = Console.ReadLine();
+                //disk = int.Parse(input);
+
+                if (int.TryParse(input, out isInt))
+                {
+                    if (isInt <= 0 || isInt > 9)
+                    {
+                        Console.WriteLine("超出範圍，請重新輸入\r\n");
+                    }
+                    else
+                    {
+                        disk = int.Parse(input);
+                        break;
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("輸入失敗，請重新輸入\r\n");
+                }
+            }
 
 
-            Console.WriteLine("起始地的柱子:(1,2,3)");
-            input = Console.ReadLine();
-            from = int.Parse(input);
 
-            Console.WriteLine("目的地的柱子：(1,2,3)");
-            input = Console.ReadLine();
-            to = int.Parse(input);
+            while (m_bWhile == true)
+            {
+                Console.WriteLine("起始地的柱子:(1,2,3)");
+                string input1 = Console.ReadLine();
+
+                if (int.TryParse(input1, out isInt))
+                {
+                    if (isInt == 1 || isInt == 2 || isInt == 3)
+                    {
+                        from = int.Parse(input1);
+                        break;
+                    }
+                    else
+                    {
+                        Console.WriteLine("超出範圍，請重新輸入\r\n");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("輸入失敗，請重新輸入\r\n");
+                }
+            }
+
+            while (m_bWhile == true)
+            {
+                Console.WriteLine("目的地的柱子：(1,2,3)");
+                string input2 = Console.ReadLine();
+
+                if (int.TryParse(input2, out isInt))
+                {
+                    if (isInt == 1 || isInt == 2 || isInt == 3)
+                    {
+                        to = int.Parse(input2);
+                        break;
+                    }
+                    else
+                    {
+                        Console.WriteLine("超出範圍，請重新輸入\r\n");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("輸入失敗，請重新輸入\r\n");
+                }
+            }
+
 
 
             #region // 取得 第三柱子

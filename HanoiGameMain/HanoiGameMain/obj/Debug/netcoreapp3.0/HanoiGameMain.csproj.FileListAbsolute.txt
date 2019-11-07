@@ -9,3 +9,14 @@ D:\VisualStudio\Hanoi\HanoiGameMain\HanoiGameMain\obj\Debug\netcoreapp3.0\HanoiG
 D:\VisualStudio\Hanoi\HanoiGameMain\HanoiGameMain\obj\Debug\netcoreapp3.0\HanoiGameMain.AssemblyInfo.cs
 D:\VisualStudio\Hanoi\HanoiGameMain\HanoiGameMain\obj\Debug\netcoreapp3.0\HanoiGameMain.dll
 D:\VisualStudio\Hanoi\HanoiGameMain\HanoiGameMain\obj\Debug\netcoreapp3.0\HanoiGameMain.pdb
+C:\Users\cg2lab\Desktop\新增資料夾\HanoiGame\HanoiGameMain\HanoiGameMain\bin\Debug\netcoreapp3.0\HanoiGameMain.exe
+C:\Users\cg2lab\Desktop\新增資料夾\HanoiGame\HanoiGameMain\HanoiGameMain\bin\Debug\netcoreapp3.0\HanoiGameMain.deps.json
+C:\Users\cg2lab\Desktop\新增資料夾\HanoiGame\HanoiGameMain\HanoiGameMain\bin\Debug\netcoreapp3.0\HanoiGameMain.runtimeconfig.json
+C:\Users\cg2lab\Desktop\新增資料夾\HanoiGame\HanoiGameMain\HanoiGameMain\bin\Debug\netcoreapp3.0\HanoiGameMain.runtimeconfig.dev.json
+C:\Users\cg2lab\Desktop\新增資料夾\HanoiGame\HanoiGameMain\HanoiGameMain\bin\Debug\netcoreapp3.0\HanoiGameMain.dll
+C:\Users\cg2lab\Desktop\新增資料夾\HanoiGame\HanoiGameMain\HanoiGameMain\bin\Debug\netcoreapp3.0\HanoiGameMain.pdb
+C:\Users\cg2lab\Desktop\新增資料夾\HanoiGame\HanoiGameMain\HanoiGameMain\obj\Debug\netcoreapp3.0\HanoiGameMain.csprojAssemblyReference.cache
+C:\Users\cg2lab\Desktop\新增資料夾\HanoiGame\HanoiGameMain\HanoiGameMain\obj\Debug\netcoreapp3.0\HanoiGameMain.AssemblyInfoInputs.cache
+C:\Users\cg2lab\Desktop\新增資料夾\HanoiGame\HanoiGameMain\HanoiGameMain\obj\Debug\netcoreapp3.0\HanoiGameMain.AssemblyInfo.cs
+C:\Users\cg2lab\Desktop\新增資料夾\HanoiGame\HanoiGameMain\HanoiGameMain\obj\Debug\netcoreapp3.0\HanoiGameMain.dll
+C:\Users\cg2lab\Desktop\新增資料夾\HanoiGame\HanoiGameMain\HanoiGameMain\obj\Debug\netcoreapp3.0\HanoiGameMain.pdb
